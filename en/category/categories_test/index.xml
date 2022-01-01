@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>categories_test | Lei He&#39;s website</title>
-    <link>https://example.com/en/category/categories_test/</link>
-      <atom:link href="https://example.com/en/category/categories_test/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://heleidsn.github.io/en/category/categories_test/</link>
+      <atom:link href="https://heleidsn.github.io/en/category/categories_test/index.xml" rel="self" type="application/rss+xml" />
     <description>categories_test</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2022 Lei He. All Rights Reserved.</copyright><lastBuildDate>Sat, 01 Jan 2022 19:13:30 +0800</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://heleidsn.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>categories_test</title>
-      <link>https://example.com/en/category/categories_test/</link>
+      <link>https://heleidsn.github.io/en/category/categories_test/</link>
     </image>
     
     <item>
       <title>Text_post</title>
-      <link>https://example.com/en/post/text_post/</link>
+      <link>https://heleidsn.github.io/en/post/text_post/</link>
       <pubDate>Sat, 01 Jan 2022 19:13:30 +0800</pubDate>
-      <guid>https://example.com/en/post/text_post/</guid>
+      <guid>https://heleidsn.github.io/en/post/text_post/</guid>
       <description>&lt;h2 id=&#34;this-is-a-test-post&#34;&gt;This is a test post&lt;/h2&gt;
 &lt;p&gt;This is a test post&lt;/p&gt;
 </description>

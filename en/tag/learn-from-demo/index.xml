@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learn from Demo | Lei He&#39;s website</title>
-    <link>https://example.com/en/tag/learn-from-demo/</link>
-      <atom:link href="https://example.com/en/tag/learn-from-demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://heleidsn.github.io/en/tag/learn-from-demo/</link>
+      <atom:link href="https://heleidsn.github.io/en/tag/learn-from-demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Learn from Demo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © 2022 Lei He. All Rights Reserved.</copyright><lastBuildDate>Thu, 06 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://heleidsn.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Learn from Demo</title>
-      <link>https://example.com/en/tag/learn-from-demo/</link>
+      <link>https://heleidsn.github.io/en/tag/learn-from-demo/</link>
     </image>
     
     <item>
       <title>Deep Reinforcement Learning based Local Planner for UAV Obstacle Avoidance using Demonstration Data</title>
-      <link>https://example.com/en/publication/he2020deep/</link>
+      <link>https://heleidsn.github.io/en/publication/he2020deep/</link>
       <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/publication/he2020deep/</guid>
+      <guid>https://heleidsn.github.io/en/publication/he2020deep/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
