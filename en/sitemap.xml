@@ -24,7 +24,17 @@
       href="https://heleidsn.github.io/en/"
     /></url>
   <url>
-    <loc>https://heleidsn.github.io/en/categories/</loc><lastmod>2022-01-01T20:25:36+08:00</lastmod><xhtml:link
+    <loc>https://heleidsn.github.io/en/tag/academic/</loc><lastmod>2022-01-01T16:46:19+08:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="zh"
+      href="https://heleidsn.github.io/zh/tag/academic/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://heleidsn.github.io/en/tag/academic/"
+    /></url>
+  <url>
+    <loc>https://heleidsn.github.io/en/categories/</loc><lastmod>2022-01-01T16:46:19+08:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="zh"
       href="https://heleidsn.github.io/zh/categories/"
@@ -34,15 +44,19 @@
       href="https://heleidsn.github.io/en/categories/"
     /></url>
   <url>
-    <loc>https://heleidsn.github.io/en/category/categories_test/</loc><lastmod>2022-01-01T20:25:36+08:00</lastmod><xhtml:link
+    <loc>https://heleidsn.github.io/en/post/getting-started/</loc><lastmod>2022-01-01T16:46:19+08:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="zh"
-      href="https://heleidsn.github.io/zh/category/categories_test/"
+      href="https://heleidsn.github.io/zh/post/getting-started/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://heleidsn.github.io/en/category/categories_test/"
+      href="https://heleidsn.github.io/en/post/getting-started/"
     /></url>
+  <url>
+    <loc>https://heleidsn.github.io/en/tag/hugo/</loc><lastmod>2022-01-01T16:46:19+08:00</lastmod></url>
+  <url>
+    <loc>https://heleidsn.github.io/en/category/life/</loc><lastmod>2022-01-01T16:46:19+08:00</lastmod></url>
   <url>
     <loc>https://heleidsn.github.io/en/tags/</loc><lastmod>2022-01-01T20:25:36+08:00</lastmod><xhtml:link
       rel="alternate"
@@ -52,26 +66,6 @@
       rel="alternate"
       hreflang="en"
       href="https://heleidsn.github.io/en/tags/"
-    /></url>
-  <url>
-    <loc>https://heleidsn.github.io/en/tag/test/</loc><lastmod>2022-01-01T20:25:36+08:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://heleidsn.github.io/zh/tag/test/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://heleidsn.github.io/en/tag/test/"
-    /></url>
-  <url>
-    <loc>https://heleidsn.github.io/en/post/text_post/</loc><lastmod>2022-01-01T20:25:36+08:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://heleidsn.github.io/zh/post/text_post/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://heleidsn.github.io/en/post/text_post/"
     /></url>
   <url>
     <loc>https://heleidsn.github.io/en/publication-type/2/</loc><lastmod>2022-01-01T20:25:36+08:00</lastmod></url>
@@ -97,66 +91,6 @@
     /></url>
   <url>
     <loc>https://heleidsn.github.io/en/tag/reinforcement-learning/</loc><lastmod>2022-01-01T20:25:36+08:00</lastmod></url>
-  <url>
-    <loc>https://heleidsn.github.io/en/tag/academic/</loc><lastmod>2022-01-01T16:46:19+08:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://heleidsn.github.io/zh/tag/academic/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://heleidsn.github.io/en/tag/academic/"
-    /></url>
-  <url>
-    <loc>https://heleidsn.github.io/en/category/demo/</loc><lastmod>2022-01-01T16:46:19+08:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://heleidsn.github.io/zh/category/demo/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://heleidsn.github.io/en/category/demo/"
-    /></url>
-  <url>
-    <loc>https://heleidsn.github.io/en/post/getting-started/</loc><lastmod>2022-01-01T16:46:19+08:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://heleidsn.github.io/zh/post/getting-started/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://heleidsn.github.io/en/post/getting-started/"
-    /></url>
-  <url>
-    <loc></loc><lastmod>2022-01-01T16:46:19+08:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /></url>
-  <url>
-    <loc>https://heleidsn.github.io/en/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2022-01-01T16:46:19+08:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://heleidsn.github.io/zh/tag/%E5%BC%80%E6%BA%90/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://heleidsn.github.io/en/tag/%E5%BC%80%E6%BA%90/"
-    /></url>
-  <url>
-    <loc>https://heleidsn.github.io/en/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2022-01-01T16:46:19+08:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="https://heleidsn.github.io/zh/category/%E6%95%99%E7%A8%8B/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://heleidsn.github.io/en/category/%E6%95%99%E7%A8%8B/"
-    /></url>
   <url>
     <loc>https://heleidsn.github.io/en/publication-type/3/</loc><lastmod>2022-01-01T20:25:36+08:00</lastmod></url>
   <url>

@@ -13,19 +13,9 @@
     </image>
     
     <item>
-      <title>Text_post</title>
-      <link>https://heleidsn.github.io/en/post/text_post/</link>
-      <pubDate>Sat, 01 Jan 2022 19:13:30 +0800</pubDate>
-      <guid>https://heleidsn.github.io/en/post/text_post/</guid>
-      <description>&lt;h2 id=&#34;this-is-a-test-post&#34;&gt;This is a test post&lt;/h2&gt;
-&lt;p&gt;This is a test post&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <title>Happy 2022 and Welcome to my new personal website!</title>
       <link>https://heleidsn.github.io/en/post/getting-started/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://heleidsn.github.io/en/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
