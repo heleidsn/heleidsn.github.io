@@ -16,7 +16,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: Unmmaned Aerial Vehicle, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ✈️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://heleidsn.github.io # the base hostname & protocol for your site
 baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -42,7 +42,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -50,7 +50,7 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 bib_search: true
 
@@ -174,6 +174,9 @@ kramdown:
 include: ["_pages", "_scripts"]
 exclude:
   - bin/
+  # - _news/announcement_1.md
+  # - _news/announcement_2.md
+  # - _news/announcement_3.md
   - CONTRIBUTING.md
   - CUSTOMIZE.md
   - Dockerfile
