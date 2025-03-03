@@ -4,10 +4,10 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: CV_lei.pdf # you can also use external links here
+cv_pdf: CV_Lei_He_20250303.pdf # you can also use external links here
 # description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
 toc:
   sidebar: left
 ---
 
-Please click <a href = "../assets/pdf/CV_lei.pdf">here</a> for my CV in PDF format.
+Please click <a href = "../assets/pdf/CV_Lei_He_20250303.pdf">here</a> for my CV in PDF format.
