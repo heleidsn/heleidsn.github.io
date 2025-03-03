@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - heleidsn
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - heleidsn/UAV_Navigation_DRL_AirSim
+  - heleidsn/px4_avoidance_airsim
+  - heleidsn/gym_airsim_multirotor
+  - heleidsn/eagle_mpc_debugger
+

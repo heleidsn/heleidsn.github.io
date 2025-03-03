@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
+title: VTOL Fixed-Wing UAV
 description: another without an image
-img:
+img: assets/img/projects/vtol_1.jpeg
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
