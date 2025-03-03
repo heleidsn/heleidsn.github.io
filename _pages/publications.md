@@ -1,12 +1,11 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 # description: For more informations, please move to my [Google Scholar](https://scholar.google.com/citations?user=QGwYalkAAAAJ&hl=en).
 nav: true
 nav_order: 2
 ---
-
 For more informations, please move to my [Google Scholar](https://scholar.google.com/citations?user=QGwYalkAAAAJ&hl=en).
 
 <!-- _pages/publications.md -->

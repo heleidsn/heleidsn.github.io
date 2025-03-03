@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: Research Fellow at Electrical and Computer Engineering, National University of Singapore
 
@@ -26,7 +26,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
 Hey, thanks for stopping by! 😃
 
 I am Lei He (何磊), currently a Postdoctoral Research Fellow at the [Department of Electrical and Computer Engineering (ECE)](https://cde.nus.edu.sg/ece/), [National University of Singapore (NUS)](https://www.nus.edu.sg/), supervised by Assistant Professor [Lin Zhao](https://sites.google.com/view/lzhao). My research focuses on aerial manipulators, motion planning, model predictive control (MPC), and autonomous system control, aiming to enhance the autonomous operational capabilities of aerial robots in complex environments.
