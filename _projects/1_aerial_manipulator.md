@@ -30,5 +30,5 @@ Our object is to develop an adaptive control framework to improve trajectory tra
     </div>
 </div>
 <div class="caption">
-    Flight test at Northwestern Polytechnical University. 2023.03.31
+    Initial flight test at National University of Singapore. 2025.01.11
 </div>
