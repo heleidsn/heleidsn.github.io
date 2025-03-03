@@ -4,27 +4,27 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
-          title: "repositories",
+          title: "Repositories",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -407,24 +407,24 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-aerial-manipulator",
           title: 'Aerial Manipulator',
-          description: "with background image",
+          description: "Develop adaptive whole-body control framework for aerial manipulation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_aerial_manipulator/";
-            },},{id: "projects-flapping-wing-obstacle-avoidance",
-          title: 'Flapping wing obstacle avoidance',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-flapping-wing",
+          title: 'Flapping wing',
+          description: "Developed an obstacle avoidance system for a bird-like flapping wing micro UAV.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/2_flapping_wing/";
             },},{id: "projects-autonomous-navigation",
           title: 'Autonomous Navigation',
-          description: "a project that redirects to another website",
+          description: "UAV navigation using deep reinforcement learning",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/3_autonomous%20navigation/";
             },},{id: "projects-vtol-fixed-wing-uav",
           title: 'VTOL Fixed-Wing UAV',
-          description: "another without an image",
+          description: "Designed and built various VTOL fixed-wing UAVs, including quadrotor VTOL, tail-sitter VTOL, and tilt-wing UAVs.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/projects/4_vtol_fixed_wing/";
             },},{id: "projects-5-project",
           title: '5_project',
           description: "",
