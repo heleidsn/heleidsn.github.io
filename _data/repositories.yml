@@ -4,8 +4,33 @@ github_users:
 repo_description_lines_max: 3
 
 github_repos:
-  - heleidsn/UAV_Navigation_DRL_AirSim
-  - heleidsn/px4_avoidance_airsim
-  - heleidsn/UAV-navigation-papers
-  - heleidsn/gym_airsim_multirotor
-  - heleidsn/gym_gazebo_px4
+  - name: heleidsn/UAV_Navigation_DRL_AirSim
+    description: Training UAV navigation and local path-planning policies in AirSim with deep reinforcement learning.
+    tags:
+      - AirSim
+      - DRL
+      - UAV Navigation
+  - name: heleidsn/px4_avoidance_airsim
+    description: Integration of PX4 avoidance and Fast-Planner with AirSim for autonomous obstacle avoidance experiments.
+    tags:
+      - PX4
+      - AirSim
+      - Planning
+  - name: heleidsn/UAV-navigation-papers
+    description: Curated paper list for UAV navigation, obstacle avoidance, and autonomous flight in unknown environments.
+    tags:
+      - Papers
+      - Navigation
+      - Survey
+  - name: heleidsn/gym_airsim_multirotor
+    description: Customized OpenAI Gym environment for AirSim multirotor UAV reinforcement-learning research.
+    tags:
+      - Gym
+      - AirSim
+      - Multirotor
+  - name: heleidsn/gym_gazebo_px4
+    description: OpenAI Gym environment for PX4 SITL and Gazebo-based UAV control experiments.
+    tags:
+      - Gym
+      - PX4
+      - Gazebo
