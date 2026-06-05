@@ -9,23 +9,23 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-projects",
+          title: "Projects",
+          description: "Selected aerial robotics, autonomous flight, and control projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
         },{id: "nav-repositories",
           title: "Repositories",
-          description: "",
+          description: "Selected open-source projects and research code.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -407,49 +407,24 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-aerial-manipulator",
           title: 'Aerial Manipulator',
-          description: "Develop adaptive whole-body control framework for aerial manipulation.",
+          description: "Adaptive whole-body control and MPC-based flight experiments for aerial manipulation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_aerial_manipulator/";
-            },},{id: "projects-flapping-wing",
-          title: 'Flapping wing',
-          description: "Developed an obstacle avoidance system for a bird-like flapping wing micro UAV.",
+            },},{id: "projects-flapping-wing-uav-autonomous-obstacle-avoidance",
+          title: 'Flapping-Wing UAV Autonomous Obstacle Avoidance',
+          description: "Bio-inspired monocular perception, image stabilization, reinforcement learning, and real-flight validation for a bird-like flapping-wing micro UAV.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_flapping_wing/";
             },},{id: "projects-autonomous-navigation",
           title: 'Autonomous Navigation',
-          description: "UAV navigation using deep reinforcement learning",
+          description: "Vision-based UAV obstacle avoidance with deep reinforcement learning, imitation learning, AirSim simulation, and real-flight validation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_autonomous%20navigation/";
             },},{id: "projects-vtol-fixed-wing-uav",
           title: 'VTOL Fixed-Wing UAV',
-          description: "Designed and built various VTOL fixed-wing UAVs, including quadrotor VTOL, tail-sitter VTOL, and tilt-wing UAVs.",
+          description: "Open-source flight-control development and real-flight testing for hybrid VTOL, tail-sitter, and tilt-wing UAVs.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_vtol_fixed_wing/";
-            },},{id: "projects-5-project",
-          title: '5_project',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-6-project",
-          title: '6_project',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-7-project",
-          title: '7_project',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-8-project",
-          title: '8_project',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-9-project",
-          title: '9_project',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
