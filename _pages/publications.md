@@ -4,9 +4,9 @@ permalink: /publications/
 title: Publications
 # description: For more informations, please move to my [Google Scholar](https://scholar.google.com/citations?user=QGwYalkAAAAJ&hl=en).
 nav: true
-nav_order: 2
+nav_order: 3
 ---
-For more informations, please move to my [Google Scholar](https://scholar.google.com/citations?user=QGwYalkAAAAJ&hl=en).
+For more information, please visit my [Google Scholar](https://scholar.google.com/citations?user=QGwYalkAAAAJ&hl=en).
 
 <!-- _pages/publications.md -->
 

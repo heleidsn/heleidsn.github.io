@@ -1,10 +1,11 @@
 github_users:
   - heleidsn
 
-repo_description_lines_max: 2
+repo_description_lines_max: 3
 
 github_repos:
   - heleidsn/UAV_Navigation_DRL_AirSim
   - heleidsn/px4_avoidance_airsim
+  - heleidsn/UAV-navigation-papers
   - heleidsn/gym_airsim_multirotor
-  - heleidsn/eagle_mpc_debugger
+  - heleidsn/gym_gazebo_px4
